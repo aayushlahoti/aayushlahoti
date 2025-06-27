@@ -1,5 +1,5 @@
 ### ⭐ABOUT ME:
-🔭 Software Devloper trying to arrange 0s and 1s in right order....
+🔭 19 year old trying to arrange 0s and 1s in right order....
 
 
 ---
