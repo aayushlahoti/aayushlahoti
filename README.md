@@ -14,8 +14,8 @@
 
 ### 📊 GitHub Stats
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushlahoti&show_icons=true&theme=radical&rank_icon=github)
+![Aayush's Stats](https://github-readme-stats-fast.vercel.app/api?username=aayushlahoti&show_icons=true&theme=radical)
 
-![Aayush's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushlahoti&layout=compact&theme=radical)
+![Aayush's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aayushlahoti&layout=compact&theme=radical)
 
 
