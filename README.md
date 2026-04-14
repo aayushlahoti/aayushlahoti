@@ -14,6 +14,8 @@
 
 ### 📊 GitHub Stats
 
-![aayushlahoti's GitHub stats](https://github-readme-stats8.vercel.app/api?username=aayushlahoti&show_icons=true&theme=dark)
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushlahoti&show_icons=true&theme=radical&rank_icon=github)
+
+![Aayush's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushlahoti&layout=compact&theme=radical)
 
 
